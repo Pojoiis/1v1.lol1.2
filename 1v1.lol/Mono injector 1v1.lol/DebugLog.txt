@@ -1,0 +1,23 @@
+AntiVirus Installed: True
+Installed AntiVirus':
+   C:\Program Files (x86)\Charter Security Suite\fsavwsch.exe C:\Program Files (x86)\Charter Security Suite\Ultralight\ulcore\1693495058\fsulprothoster.exe
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: c:\program files (x86)\charter security suite\fsavwsch.exe c:\program files (x86)\charter security suite\ultralight\ulcore\1693495058\fsulprothoster.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+
+[MainWindowViewModel] - ExecuteRefresh Entered
+[MainWindowViewModel] - Setting Process Access Rights:
+	PROCESS_QUERY_INFORMATION
+	PROCESS_VM_READ
+[MainWindowViewModel] - Checking Processes for Mono
+	svchost.exe
+	lsass.exe
+	svchost.exe
+	chrome.exe
+	CompPkgSrv.exe
+    Error Getting User Process: SecurityHealthService - Access is denied
+	RuntimeBroker.exe
+	1v1_LOL.exe
+		Mono found in process: 1v1_LOL.exe
+
+FINISHED SCANNING PROCESSES...
